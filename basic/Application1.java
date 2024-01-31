@@ -35,6 +35,11 @@ public class Application1 {
 
 //        method2.checkBmi();
 
+        Method3 method3 = new Method3();
+
+//        method3.calculator();
+
+        method3.fruitSales();
     }
 
 
